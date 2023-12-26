@@ -22,7 +22,7 @@ ReactDOM.render(
     <Router>
       <GlobalStyle />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/portfolio" element={<Home />} />
         <Route path='/projet' element={<Projet />} />
         <Route path="*" element={<Error />} />
       </Routes>

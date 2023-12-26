@@ -1,0 +1,46 @@
+.skills_container {
+    background: rgb(29, 27, 27);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    font-size: 25px;
+}
+
+.div_skills{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    padding: 80px 0 80px 0;
+}
+
+.logo_container:hover p {
+    display: block;
+}
+
+.logo_container:hover {
+    transform: scale(1.1);
+}
+
+.logo_skills {
+    width: 150px;
+}
+
+.logo_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.skills_content {
+    top: 150px;
+    position: absolute;
+    font-size: 15px;
+    display: none;
+    color: white;
+}
+

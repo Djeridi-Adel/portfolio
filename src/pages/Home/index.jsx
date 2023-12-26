@@ -1,8 +1,9 @@
 import Header from '../../components/Header'
 import About from '../../components/About'
 import Cards from '../../components/Card'
-import Footer from "../../components/Footer"
+import Skills from '../../components/Skills'
 import Form from '../../components/Form'
+import Footer from "../../components/Footer"
 import '../../utils/style/home.css'
 
 
@@ -12,6 +13,7 @@ function Home() {
       <Header />
       <About />
       <Cards />
+      <Skills />
       <Form />
       <Footer />
     </div>
