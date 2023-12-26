@@ -10,7 +10,7 @@ export default function About() {
                     <img src={Loupe} alt="loupe" className="img_loupe"></img>
                 </div>
                 <div className="div_p_title">
-                    <p className="p_title">Autodidacte dans le domaine de l'informatique passionné par le dévélopement web et conforté dans l'idée d'un profond interêt à réaliser des interfaces dynamiques, assurer une bonne experience utilisateur sur les plateformes, j'ai décidé de réaliser une formation intensive en ligne durant 9 mois avec Openclassrooms, pour developper mes compétences dans ce secteur.</p>
+                    <p className="p_title">Autodidacte dans le domaine de l'informatique, passionné par le dévélopement web et conforté dans l'idée d'un profond interêt à réaliser des interfaces dynamiques, assurer une bonne experience utilisateur sur les plateformes, j'ai décidé de réaliser une formation intensive en ligne durant 9 mois avec Openclassrooms, pour developper mes compétences dans ce secteur.</p>
                 </div>
             </div>
             <div className="about_info">
@@ -30,7 +30,7 @@ export default function About() {
                         <img src={Loupe} alt="loupe" className="img_loupe"></img>
                     </div>
                     <div className="div_p">
-                        <p className="p_about_info">Pour en savoir plus, n'hesitez pas a vous laissez transporter dans mon univers et prendre la route de quelques unes de mes réalisations à travers ce portfolio.</p>
+                        <p className="p_about_info">Pour en savoir plus, n'hesitez pas à vous laissez transporter dans mon univers et prendre la route de quelques unes de mes réalisations à travers ce portfolio.</p>
                     </div>
                 </div>
             </div>
