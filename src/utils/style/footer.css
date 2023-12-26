@@ -1,0 +1,39 @@
+.FooterDiv {
+    background-color: rgb(29, 27, 27);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.FooterTxt {
+  width: 91%;
+  display: flex;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+.Footer_link {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-inline: 20px;
+  padding-bottom: 2px;
+  margin: 10px 20px 0 0;
+  height: 25px;
+  font-size: 16px;
+  background-color: #FF6060;
+  color: white;
+  border-radius: 12px;
+}
+
+.Footer_link:hover {
+  animation: ease-in-out;
+  transform: scale(1.2);
+}

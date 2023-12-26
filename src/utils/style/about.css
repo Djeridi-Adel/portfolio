@@ -1,0 +1,129 @@
+.about_container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10%;
+    margin-top: 5%;
+
+}
+.about_title_div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 8%;
+}
+
+.about_title {
+    font-size: 30px;
+}
+
+.about_info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+
+.about_info_div_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    width: 80%;
+    padding-left: 50px;
+    align-items: center;
+}
+
+.about_info_div_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    width: 60%;
+    padding-left: 50px;
+    align-items: center;
+}
+
+p {
+    font-style: italic;
+}
+
+.p_title{
+    font-size: 20px;
+}
+
+.p_about_info{
+    font-size: 20px;
+}
+
+.loupe {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding-left: 40px;
+    padding-right: 20px;
+    align-items: center;
+    width: 87%;
+}
+
+.loupe-title {
+    width: 80%;
+}
+
+.img_loupe {
+    width: 15px;
+    height: 15px;
+}
+
+.div_p {
+    width: 92%;
+    padding-top: 20px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
+
+.div_p_title {
+    width: 84%;
+    padding-top: 20px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+
+}
+
+
+@media screen and (max-width: 800px) {
+    .about_info_div_1 {
+        padding-left: 0;
+    }
+    .p_about_info,
+    .p_title {
+        font-size: 16px;
+    }
+    .about_title {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 624px) {
+   .about_container {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+   }
+   .about_info_div_2 {
+    padding-left: 0;
+   }
+   .about_info{
+    gap: 40px;
+   }
+}
