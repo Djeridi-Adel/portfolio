@@ -27,7 +27,7 @@
 			"https://i.ibb.co/Y0GK3cZ/Background.png"
 		],
 		"client": "startup spécialisée dans la location d'appartements entre particuliers.",
-		"objectifs": "L'objectif était de moderniser la plateforme existante, en React, pour optimiser l'expérience utilisateur sur différentes tailles d'écran. J'ai enrichi l'interactivité du site en intégrant des animations CSS tout en introduisant des éléments avancés, comme la création d'un carrousel pour afficher les images des logements, l'implémentation d'un collapse pour améliorer l'UX, et la gestion dynamique des fiches logements à partir de données internes. De plus, j'ai utilisé Sass pour améliorer la gestion des styles.",
+		"objectifs": "L'objectif était de moderniser la plateforme existante, en React, pour optimiser l'expérience utilisateur sur différentes tailles d'écran. J'ai enrichi l'interactivité du site en intégrant des animations CSS tout en introduisant des éléments avancés, comme la création d'un carrousel pour afficher les images des logements, l'implémentation d'un collapse pour améliorer l'UX, et la gestion dynamique des fiches logements à partir de données internes.",
 		"site": " https://djeridi-adel.github.io/kasa/",
 		"depot": "https://github.com/Djeridi-Adel/kasa.git",
 		"tags": [
