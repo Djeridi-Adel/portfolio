@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3940d2d7.css",
-    "main.js": "/portfolio/static/js/main.0a0e93bc.js",
+    "main.css": "/portfolio/static/css/main.edea943a.css",
+    "main.js": "/portfolio/static/js/main.713ec0ea.js",
     "static/media/montagne-flip.jpg": "/portfolio/static/media/montagne-flip.ca7bec15018ecb9daada.jpg",
     "static/media/montagne.jpg": "/portfolio/static/media/montagne.f13faf64977d484479a3.jpg",
     "static/media/cv-djeridi-adel.pdf": "/portfolio/static/media/cv-djeridi-adel.69025f4738b36961d5af.pdf",
@@ -12,11 +12,11 @@
     "static/media/logo-sass.png": "/portfolio/static/media/logo-sass.6747d5c68a381e29fc69.png",
     "static/media/localisation.png": "/portfolio/static/media/localisation.d6b2e60a13fe6f754384.png",
     "index.html": "/portfolio/index.html",
-    "main.3940d2d7.css.map": "/portfolio/static/css/main.3940d2d7.css.map",
-    "main.0a0e93bc.js.map": "/portfolio/static/js/main.0a0e93bc.js.map"
+    "main.edea943a.css.map": "/portfolio/static/css/main.edea943a.css.map",
+    "main.713ec0ea.js.map": "/portfolio/static/js/main.713ec0ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.3940d2d7.css",
-    "static/js/main.0a0e93bc.js"
+    "static/css/main.edea943a.css",
+    "static/js/main.713ec0ea.js"
   ]
 }
