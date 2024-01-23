@@ -1,3 +1,7 @@
+*{
+    overscroll-behavior: none;
+}
+
 .projet {
     display: flex;
     flex-direction: column;

@@ -21,7 +21,6 @@ function Projet() {
 
     if (!record) return(<Home />)
 
-
     return (
         <div>
             <div className='projet'>
@@ -53,7 +52,9 @@ function Projet() {
                         </p>
                     </div>
                     <div className='div_link'>
-                        <a rel="noreferrer" href={record.site} target="_blank" className='projet_link'>Lien vers le site</a>
+                        {record.site.length > 0 &&
+                        <a rel="noreferrer" href={record.site} target="_blank" className='projet_link '>Lien vers le site</a>
+                        }
                         <a rel="noreferrer" href={record.depot} target="_blank" className='projet_link'>Lien Github</a>
 
                     </div>
