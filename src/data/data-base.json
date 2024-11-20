@@ -45,7 +45,7 @@
 		"cover": "https://i.ibb.co/KDdK2hT/sophie-bluel2.jpg",
 		"description": "En tant que développeur front-end, j'ai aidé une équipe à finaliser le nouveau site internet d'une architecte d'intérieur. J'étais chargé de développer plusieurs fonctionnalités clés pour le site.",
 		"pictures": [
-			"https://i.ibb.co/k6wRDzY/sophie-bluel.png"
+			"https://i.ibb.co/SsNfdvW/background-sohpie-bluel.png"
 		],
 		"client": "Agence ArchiWebos.",
 		"objectifs": " Mon rôle a inclus la création de la page de présentation des travaux de l'architecte, avec des options de filtrage par catégorie, le développement de la page de connexion sécurisée de l'administrateur en utilisant JWT (JSON Web Tokens) pour l'authentification, ainsi que la conception d'une modale permettant à l'architecte d'ajouter ou de supprimer des projets. J'ai utilisé JavaScript pour générer dynamiquement les éléments en communiquant avec une API, ce qui a permis de récupérer, ajouter et supprimer des travaux. Tout au long du projet, nous avons utilisé un tableau Kanban détaillé pour organiser notre travail de manière efficace.",
@@ -107,7 +107,7 @@
 		"cover": "https://i.ibb.co/Fsmg4tD/724events.jpg",
 		"description": "724events, une agence événementielle, avait lancé une refonte cruciale de son site vitrine. Après la validation du design, un développeur freelance a été recruté pour l'intégration, mais il a dû quitter le projet en cours. J'ai relevé le défi de résoudre les problèmes techniques et d'optimiser le site pour répondre pleinement aux besoins de l'agence.",
 		"pictures": [
-			"https://i.ibb.co/pQrnx7g/evangeline-shaw-nw-LTVwb7-Db-U-unsplash1.png"
+			"https://i.ibb.co/kxXGD3x/evangeline-shaw-nw-LTVwb7-Db-U-unsplash1.png"
 		],
 		"client": "L'agence évènementielle 724events.",
 		"objectifs": "Ma mission consistait à effectuer un débogage complet et d'optimiser le site web de 724events. J'ai commencé par une analyse approfondie du code source existant, identifiant ainsi les problèmes techniques qui entravaient les performances du site. Mon objectif était de garantir que le site soit fluide et réactif pour les visiteurs. Pour atteindre cet objectif, j'ai utilisé des tests unitaires pour vérifier chaque composant du site. Les React Dev Tools ont été essentielles pour analyser et optimiser le code React. Grâce à ces outils, j'ai pu cibler les zones spécifiques nécessitant des améliorations. En parallèle, j'ai finalisé le cahier de recette, créant des scénarios détaillés pour vérifier que chaque fonctionnalité du site fonctionnait comme prévu. Mon travail a permis d'assurer que le site réponde aux normes de qualité les plus élevées, offrant ainsi une expérience optimale aux utilisateurs.",
