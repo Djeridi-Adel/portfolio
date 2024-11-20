@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0b54bd20.css",
-    "main.js": "/portfolio/static/js/main.c94e1cb3.js",
+    "main.js": "/portfolio/static/js/main.f281d03f.js",
     "static/media/montagne-flip.jpg": "/portfolio/static/media/montagne-flip.ca7bec15018ecb9daada.jpg",
     "static/media/montagne.jpg": "/portfolio/static/media/montagne.f13faf64977d484479a3.jpg",
     "static/media/cv-djeridi-adel.pdf": "/portfolio/static/media/cv-djeridi-adel.69025f4738b36961d5af.pdf",
@@ -13,10 +13,10 @@
     "static/media/localisation.png": "/portfolio/static/media/localisation.d6b2e60a13fe6f754384.png",
     "index.html": "/portfolio/index.html",
     "main.0b54bd20.css.map": "/portfolio/static/css/main.0b54bd20.css.map",
-    "main.c94e1cb3.js.map": "/portfolio/static/js/main.c94e1cb3.js.map"
+    "main.f281d03f.js.map": "/portfolio/static/js/main.f281d03f.js.map"
   },
   "entrypoints": [
     "static/css/main.0b54bd20.css",
-    "static/js/main.c94e1cb3.js"
+    "static/js/main.f281d03f.js"
   ]
 }
